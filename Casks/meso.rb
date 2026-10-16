@@ -1,6 +1,6 @@
 cask "meso" do
-  version "0.2.3"
-  sha256 "356ea08840a131cc9055bb87d448cd5e2aa3a0a898343f54b443ebc5dcbbf4ba"
+  version "0.2.4"
+  sha256 "f26731f0ac4ee45505e9134edf7d355688df1eb534397713f3b1ce62d44afcbf"
 
   url "https://github.com/linmi/meso/releases/download/v#{version}/Meso-#{version}.dmg",
       verified: "github.com/linmi/meso/"
